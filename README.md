@@ -1,3 +1,5 @@
+**No longer maintained, see [dockerdepot/docker-ubuntu](https://github.com/dockerdepot/docker-ubuntu) instead.**
+
 # docker-ubuntu
 A base Ubuntu Docker container with en_AU (UTF8) locale support and upgraded `udev`.
 
